@@ -1,0 +1,6 @@
+{
+  "name": "ShikshaSetu",
+  "description": "School infrastructure reporting, tracking, and repair verification platform for government schools and Anganwadis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
